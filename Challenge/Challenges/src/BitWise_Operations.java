@@ -19,8 +19,8 @@ public class BitWise_Operations {
         System.out.println("Right shift of B " + (b >> 2));
 
         //compleiment operation
-
-        if (a & 1) {
+//
+        if ((a & 1) == 0) {
             System.out.println("Even");
         } else {
             System.out.println("Odd");
