@@ -20,6 +20,7 @@ public class Grade_Classification {
             System.out.println("D grade");
         } else {
             System.out.println("Fail");
+
         }
     }
 }
