@@ -1,3 +1,5 @@
+package in.multithreading.ThreadClass;
+
 public class FirstTask extends Thread {
 
     @Override
@@ -7,5 +9,8 @@ public class FirstTask extends Thread {
         }
         System.out.println();
         System.out.println("first task done");
+        System.out.println();
+        System.out.println("---------" + Thread.currentThread().getName() + "------------------");
+        System.out.println();
     }
 }

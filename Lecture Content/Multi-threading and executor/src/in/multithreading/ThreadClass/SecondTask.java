@@ -1,3 +1,5 @@
+package in.multithreading.ThreadClass;
+
 public class SecondTask extends Thread {
 
     @Override

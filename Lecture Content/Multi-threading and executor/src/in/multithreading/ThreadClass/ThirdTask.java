@@ -1,3 +1,5 @@
+package in.multithreading.ThreadClass;
+
 public class ThirdTask extends Thread {
     @Override
     public void run() {

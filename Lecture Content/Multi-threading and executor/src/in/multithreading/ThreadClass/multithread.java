@@ -1,3 +1,5 @@
+package in.multithreading.ThreadClass;
+
 public class multithread {
 
     public static void main(String[] args) {
