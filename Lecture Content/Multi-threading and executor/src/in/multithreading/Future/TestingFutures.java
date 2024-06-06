@@ -1,4 +1,4 @@
-package in.multithreading.Executor.Future;
+package in.multithreading.Future;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
