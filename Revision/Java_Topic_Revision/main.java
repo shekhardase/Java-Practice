@@ -12,6 +12,8 @@ public class main {
         ll.insertAtLast(11000);
         ll.insert(99, 2);
         ll.deleteFirst();
-        ll.display();
+        ll.deleteLast();
+       System.out.println("This is node which contains value :" + ll.find(3)); 
+        // ll.display();
     }
 }
