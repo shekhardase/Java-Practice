@@ -15,10 +15,9 @@ public class DoublyLL {
         head = node;
     }
 
-    public void display()
-    {
+    public void display() {
         Node node = head;
-        
+
     }
 
     private class Node {
